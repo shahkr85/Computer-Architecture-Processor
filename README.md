@@ -1,1 +1,1 @@
-# 16-Bit ARM processor designed with Verilog
+# 32-Bit ARM processor designed with Verilog
