@@ -1,1 +1,1 @@
-# Comp-Arch-Processor
+# 16-Bit ARM processor designed with Verilog
