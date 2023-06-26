@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-vsliveshare.vsliveshare"
+		]
+	},
+	"recommendations": [
+		"ms-vsliveshare.vsliveshare",
+		"mshr-h.veriloghdl"
+	]
+}
